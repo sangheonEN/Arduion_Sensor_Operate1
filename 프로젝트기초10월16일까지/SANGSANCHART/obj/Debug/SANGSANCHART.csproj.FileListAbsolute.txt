@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\bin\Debug\SANGSANCHART.exe.config
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\bin\Debug\SANGSANCHART.exe
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\bin\Debug\SANGSANCHART.pdb
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.csprojAssemblyReference.cache
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.Form1.resources
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.Properties.Resources.resources
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.exe
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.pdb
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\bin\Debug\SANGSAN.exe
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\bin\Debug\SANGSAN.pdb
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\bin\Debug\SANGSAN.exe.config
+C:\Users\User\Desktop\스마트반공유\프로젝트기초10월16일까지\SANGSANCHART\obj\Debug\SANGSANCHART.csproj.CopyComplete
